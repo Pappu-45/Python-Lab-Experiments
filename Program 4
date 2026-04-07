@@ -1,3 +1,6 @@
+Write a Python program to swap two variables.
+
+CODE:
 # Input two variables
 a = input("Enter the value of the first variable (a): ")
 b = input("Enter the value of the second variable (b): ")
